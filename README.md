@@ -42,7 +42,3 @@ Akka 2.5.0, Java 8
 
 * [Learn Spring and Spring Boot - 10x Productive Java Development [Video]](https://www.packtpub.com/application-development/learn-spring-and-spring-boot-10x-productive-java-development-video?utm_source=github&utm_medium=repository&utm_campaign=9781838648657)
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781784393007">https://packt.link/free-ebook/9781784393007 </a> </p>
